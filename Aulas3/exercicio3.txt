@@ -1,0 +1,3 @@
+1 (data): pasta responsavel pelos arrays, simulação de dados ou ate mesmo arquivos.
+2 (includes): uma pasta feita para evitar repetição de dados utilizando arquivos ou partes reutilizaveis como header e footer.
+3 (pages) :são as telas, paginas oucomo pode se dizer paginas internas como cadastro.

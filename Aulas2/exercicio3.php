@@ -6,6 +6,6 @@ $produtos = [
 
 ];
 foreach ($produtos as $produto) {
-echo "Produto: { <br>";
+echo "Produto: {$produto["nome"]} - Preço: R$ {$produto["preco"]}<br>";
 }
 ?>

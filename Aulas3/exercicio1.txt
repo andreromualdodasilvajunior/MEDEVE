@@ -1,0 +1,3 @@
+    Organizar pastas é importante por diversos motivos em um sistema,
+    principalmente pra que o administrador não se confunda em nenhum momento 
+    e saiba localizar seus projetos de forma especifica e clara. Assim não deixando ele ficar bagunçado
