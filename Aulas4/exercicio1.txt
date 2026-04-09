@@ -1,0 +1,1 @@
+Uma sessão é uma maneira que o servidor lembre-se de quem é o usuario enquanto ele mesmo navega pelo sistema. Assim o acesso pode ser controlado e o sistema sabe quem esta logado.

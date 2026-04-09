@@ -1,0 +1,1 @@
+Acontece que se acessarmos sem estar logado o sistema nega o acesso, não guarda suas informações e em geral o que o usuario pode ou não fazer fica limitado e na maioria sem muito o que fazer. Porém como ela esta protegida ele vai ser direcionado pra pagina de login.
