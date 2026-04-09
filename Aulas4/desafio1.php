@@ -1,5 +1,8 @@
 <?php
 session_start(); 
 
-echo "Bem vindo, " . $_SESSION["usuario"];
+
+if (isset($_SESSION["usuario"])) {
+    echo "Bem vindo, " . $_SESSION["usuario"];
+};
 ?>
