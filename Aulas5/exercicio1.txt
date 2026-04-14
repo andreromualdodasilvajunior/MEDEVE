@@ -1,0 +1,1 @@
+O perfil de usuario é uma forma que define o que uma pessoa pode ou não acessar dentro do sistema, pois nem todos os usuarios podem fazer tudo. Exemplo: cliente, empresa e administrador

@@ -1,0 +1,1 @@
+A diferença é que o controle logico é a verificação que acontece no codigo afim de proteger o sistema, concedendo permissão ou bloqueando o acesso de alguma pag ou função etc, e ja o visual é a definição que mostra ou esconde elementos que determinado usuario não pode ver na interface, não interferindo na validação do site mas mais no que vemos.

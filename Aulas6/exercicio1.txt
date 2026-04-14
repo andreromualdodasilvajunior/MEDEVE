@@ -1,0 +1,1 @@
+Bootstrap é uma ferramenta de design basicamente para criar partes visuais em um sistema para deixa bonitinho e organizar de forma bem legal o layout , alem de criar sites responsivos com sua responsabilidade de layout e aparencia.
