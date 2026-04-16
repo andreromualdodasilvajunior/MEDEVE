@@ -12,7 +12,7 @@
             "perfil" => "empresa"
         ],
         [
-            "usuario" => "root",
+            "usuario" => "admin",
             "senha" => "123",
             "perfil" => "proprietario"
         ],
@@ -26,7 +26,7 @@
             ],
         [
             "id" => 2,
-            "descricao" => "Salaro",
+            "descricao" => "Salario",
             "valor" => 2500,
             "tipo" => "receber"
         ],
